@@ -1,0 +1,18 @@
+.username {
+    min-width: 300px;
+}
+
+a{
+    padding: 10px;
+}
+
+table {
+    width: 100%;
+    background-color:aqua;
+  }
+
+  mat-card-content{
+    padding: 10px;
+  }
+  
+
